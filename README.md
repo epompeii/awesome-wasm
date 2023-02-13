@@ -290,6 +290,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 - [Wasm vs. PNaCl Performance Benchmark by PDFTron](https://www.pdftron.com/blog/wasm/wasm-vs-pnacl/)
 - [JavaScript vs WebAssembly running in Browser/Nodejs](https://originjs.org/WASM-benchmark/)
+- [Bencher: A suite of continuous benchmarking tools designed to catch performance regressions in CI](https://bencher.dev/)
 
 ## Job Boards
 - [WebAssembly Jobs](https://webassemblyjobs.com)
